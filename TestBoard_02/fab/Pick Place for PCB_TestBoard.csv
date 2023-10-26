@@ -1,0 +1,20 @@
+Altium Designer Pick and Place Locations,,,,,,,
+,,,,,,,
+,,,,,,,
+========================================================================================================================,,,,,,,
+File Design Information:,,,,,,,
+,,,,,,,
+Date:       31/07/23,,,,,,,
+Time:       13:28,,,,,,,
+Revision:   Not in VersionControl,,,,,,,
+Variant:    No variations,,,,,,,
+Units used: mm,,,,,,,
+,,,,,,,
+Designator,Comment,Layer,Footprint,Center-X(mm),Center-Y(mm),Rotation,Description
+JP2,FPC-0.5mm-40P,TopLayer,FPC0.5_2H-WS-40P,50.25,4.7515,0,FPC Connector 0.5mm 40PIN
+JP1,FPC-0.5mm-40P,TopLayer,FPC0.5_2H-WS-40P,15.25,4.7515,0,FPC Connector 0.5mm 40PIN
+JMP4,Header 8X2,TopLayer,IDC2.54-LI-2x8P,57.73,30.35,270,8*2P接插件
+JMP3,Header 8X2,TopLayer,IDC2.54-LI-2x8P,42.23,30.19,270,8*2P接插件
+JMP2,Header 8X2,TopLayer,IDC2.54-LI-2x8P,22.73,30.39,270,8*2P接插件
+JMP1,Header 8X2,TopLayer,IDC2.54-LI-2x8P,7.23,30.39,270,8*2P接插件
+JGP,HDR-1X3,TopLayer,XH2.54-LI-3P,32.55,9.775,180,3P接插件

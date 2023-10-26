@@ -1,0 +1,145 @@
+Altium Designer Pick and Place Locations,,,,,,,
+,,,,,,,
+,,,,,,,
+========================================================================================================================,,,,,,,
+File Design Information:,,,,,,,
+,,,,,,,
+Date:       23/03/23,,,,,,,
+Time:       21:03,,,,,,,
+Revision:   Not in VersionControl,,,,,,,
+Variant:    No variations,,,,,,,
+Units used: mm,,,,,,,
+,,,,,,,
+Designator,Comment,Layer,Footprint,Center-X(mm),Center-Y(mm),Rotation,Description
+SMA_U_ResistorNetwork_forTest32,SMA RF 立式,TopLayer,SMA-KE-LI,84.5,7.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest31,SMA RF 立式,TopLayer,SMA-KE-LI,74.5,7.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest30,SMA RF 立式,TopLayer,SMA-KE-LI,64.5,7.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest29,SMA RF 立式,TopLayer,SMA-KE-LI,54.5,7.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest28,SMA RF 立式,TopLayer,SMA-KE-LI,84.5,17.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest27,SMA RF 立式,TopLayer,SMA-KE-LI,74.5,17.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest26,SMA RF 立式,TopLayer,SMA-KE-LI,64.5,17.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest25,SMA RF 立式,TopLayer,SMA-KE-LI,54.5,17.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest24,SMA RF 立式,TopLayer,SMA-KE-LI,84.5,27.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest23,SMA RF 立式,TopLayer,SMA-KE-LI,74.5,27.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest22,SMA RF 立式,TopLayer,SMA-KE-LI,64.5,27.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest21,SMA RF 立式,TopLayer,SMA-KE-LI,54.5,27.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest20,SMA RF 立式,TopLayer,SMA-KE-LI,84.5,37.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest19,SMA RF 立式,TopLayer,SMA-KE-LI,74.5,37.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest18,SMA RF 立式,TopLayer,SMA-KE-LI,64.5,37.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest17,SMA RF 立式,TopLayer,SMA-KE-LI,54.5,37.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest16,SMA RF 立式,TopLayer,SMA-KE-LI,84.5,47.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest15,SMA RF 立式,TopLayer,SMA-KE-LI,74.5,47.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest14,SMA RF 立式,TopLayer,SMA-KE-LI,64.5,47.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest13,SMA RF 立式,TopLayer,SMA-KE-LI,54.5,47.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest12,SMA RF 立式,TopLayer,SMA-KE-LI,84.5,57.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest11,SMA RF 立式,TopLayer,SMA-KE-LI,74.5,57.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest10,SMA RF 立式,TopLayer,SMA-KE-LI,64.5,57.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest9,SMA RF 立式,TopLayer,SMA-KE-LI,54.5,57.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest8,SMA RF 立式,TopLayer,SMA-KE-LI,84.5,67.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest7,SMA RF 立式,TopLayer,SMA-KE-LI,74.5,67.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest6,SMA RF 立式,TopLayer,SMA-KE-LI,64.5,67.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest5,SMA RF 立式,TopLayer,SMA-KE-LI,54.5,67.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest4,SMA RF 立式,TopLayer,SMA-KE-LI,84.5,77.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest3,SMA RF 立式,TopLayer,SMA-KE-LI,74.5,77.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest2,SMA RF 立式,TopLayer,SMA-KE-LI,64.5,77.5,270,SMA RF 立式
+SMA_U_ResistorNetwork_forTest1,SMA RF 立式,TopLayer,SMA-KE-LI,54.5,77.5,270,SMA RF 立式
+RL_U_ResistorNetwork_forTest32,1K,TopLayer,R_0402_L,19.625,5.5199,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest31,1K,TopLayer,R_0402_L,19.625,6.8781,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest30,1K,TopLayer,R_0402_L,19.625,8.2364,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest29,1K,TopLayer,R_0402_L,19.625,9.5946,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest28,1K,TopLayer,R_0402_L,19.625,10.9528,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest27,1K,TopLayer,R_0402_L,19.625,12.311,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest26,1K,TopLayer,R_0402_L,19.625,13.6693,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest25,1K,TopLayer,R_0402_L,19.625,15.0275,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest24,1K,TopLayer,R_0402_L,19.625,16.3857,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest23,1K,TopLayer,R_0402_L,19.625,17.744,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest22,1K,TopLayer,R_0402_L,19.625,19.1022,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest21,1K,TopLayer,R_0402_L,19.625,20.4605,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest20,1K,TopLayer,R_0402_L,19.625,21.8187,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest19,1K,TopLayer,R_0402_L,19.625,23.1769,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest18,1K,TopLayer,R_0402_L,19.625,24.5352,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest17,1K,TopLayer,R_0402_L,19.625,25.8934,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest16,1K,TopLayer,R_0402_L,19.625,27.2517,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest15,1K,TopLayer,R_0402_L,19.625,28.6099,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest14,1K,TopLayer,R_0402_L,19.625,29.9681,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest13,1K,TopLayer,R_0402_L,19.625,31.3264,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest12,1K,TopLayer,R_0402_L,19.625,32.6846,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest11,1K,TopLayer,R_0402_L,19.625,34.0429,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest10,1K,TopLayer,R_0402_L,19.625,35.4011,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest9,1K,TopLayer,R_0402_L,19.625,36.7593,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest8,1K,TopLayer,R_0402_L,19.625,38.1176,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest7,1K,TopLayer,R_0402_L,19.625,39.4758,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest6,1K,TopLayer,R_0402_L,19.625,40.834,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest5,1K,TopLayer,R_0402_L,19.625,42.1922,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest4,1K,TopLayer,R_0402_L,19.625,43.5505,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest3,1K,TopLayer,R_0402_L,19.625,44.9087,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest2,1K,TopLayer,R_0402_L,19.625,46.267,180,贴片电阻 0.1%
+RL_U_ResistorNetwork_forTest1,1K,TopLayer,R_0402_L,19.625,47.6,180,贴片电阻 0.1%
+RH_U_ResistorNetwork_forTest32,5K,TopLayer,R_0402_L,16.643,5.5199,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest31,5K,TopLayer,R_0402_L,16.643,6.8781,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest30,5K,TopLayer,R_0402_L,16.643,8.2363,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest29,5K,TopLayer,R_0402_L,16.643,9.5946,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest28,5K,TopLayer,R_0402_L,16.643,10.9528,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest27,5K,TopLayer,R_0402_L,16.643,12.311,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest26,5K,TopLayer,R_0402_L,16.643,13.6692,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest25,5K,TopLayer,R_0402_L,16.643,15.0275,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest24,5K,TopLayer,R_0402_L,16.643,16.3857,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest23,5K,TopLayer,R_0402_L,16.643,17.744,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest22,5K,TopLayer,R_0402_L,16.643,19.1022,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest21,5K,TopLayer,R_0402_L,16.643,20.4604,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest20,5K,TopLayer,R_0402_L,16.643,21.8187,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest19,5K,TopLayer,R_0402_L,16.643,23.1769,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest18,5K,TopLayer,R_0402_L,16.643,24.5352,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest17,5K,TopLayer,R_0402_L,16.643,25.8934,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest16,5K,TopLayer,R_0402_L,16.643,27.2516,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest15,5K,TopLayer,R_0402_L,16.643,28.6099,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest14,5K,TopLayer,R_0402_L,16.643,29.9681,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest13,5K,TopLayer,R_0402_L,16.643,31.3264,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest12,5K,TopLayer,R_0402_L,16.643,32.6846,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest11,5K,TopLayer,R_0402_L,16.643,34.0428,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest10,5K,TopLayer,R_0402_L,16.643,35.4011,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest9,5K,TopLayer,R_0402_L,16.643,36.7593,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest8,5K,TopLayer,R_0402_L,16.643,38.1176,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest7,5K,TopLayer,R_0402_L,16.643,39.4758,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest6,5K,TopLayer,R_0402_L,16.643,40.834,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest5,5K,TopLayer,R_0402_L,16.643,42.1922,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest4,5K,TopLayer,R_0402_L,16.643,43.5505,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest3,5K,TopLayer,R_0402_L,16.643,44.9087,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest2,5K,TopLayer,R_0402_L,16.643,46.2669,180,"贴片电阻 0.1%
+C3202451"
+RH_U_ResistorNetwork_forTest1,5K,TopLayer,R_0402_L,16.643,47.6,180,"贴片电阻 0.1%
+C3202451"
+P_OUT,SMD 40P,TopLayer,SMD-40P-W0.2-H0.6-T0.4,35.486,59.615,270,SMD Pad for Chip Bonding (40 PIN).
+P_IN,SMD 40P,TopLayer,SMD-40P-W0.2-H0.6-T0.4,14.404,59.615,270,SMD Pad for Chip Bonding (40 PIN).
+JP_TEST,FPC-0.5mm-40P,TopLayer,FPC0.5_2H-WS-40P,4.7485,24.5,270,FPC Connector 0.5mm 40PIN
+JP_DATA,FPC-0.5mm-40P,TopLayer,FPC0.5_2H-WS-40P,4.7845,59.742,270,FPC Connector 0.5mm 40PIN
